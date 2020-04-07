@@ -1,0 +1,65 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* 
+.row div {
+  border: 1px solid;
+  padding: 20px 13px;
+} */
+
+
+/* Header Section */
+
+.jumbotron {
+  background-image: url(./Pictures/ebricks.jpg);
+  background-size: cover;
+
+}
+
+h2,h3 {
+  color:rgba(255, 0, 0, 0.516);
+  /* font-family:'Caveat', cursive; */
+}
+h3 {
+  font-family:'Caveat', cursive;
+ 
+}
+
+a {
+  color:rgba(255, 0, 0, 0.516);
+}
+
+p {
+  background-color: rgba(255, 0, 0, 0.319);
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+  font-family:'Caveat', cursive;
+  
+  font-size: 1.5rem;
+  border: 6px solid white;
+}
+
+/* Pricing */
+
+.card-body {
+  background-color: rgba(128, 128, 128, 0.414);
+}
+
+
+
+/* Image Grid */
+
+#image-grid {
+  background-color: rgba(128, 128, 128, 0.414) ;
+}
+
+footer {
+  font-family:'Caveat', cursive;
+}
+
+
+
+
